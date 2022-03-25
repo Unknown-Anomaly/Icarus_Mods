@@ -1,0 +1,48 @@
+- Cryptic_Overhaul_Complete_P.pak
+  - \Armour\
+    - D_ArmourSetBonus
+  - \Crafting\
+    - D_ProcessorRecipes
+  - \Inventory\
+    - D_InventoryInfo
+    - D_ItemsStatic
+    - D_ItemTemplate
+  - \Items\
+    - D_ItemRewards
+    - D_ItemsStatic
+    - D_ItemTemplate
+  - \Modifiers\
+    - D_ModifierStates
+  - \Prospects\
+    - D_ProspectList
+  - \Stats\
+    - D_ProspectStats
+  - \Talents\
+    - D_Talents
+  - \Tools\
+    - D_AmmoTypes
+    - D_FirearmData
+    - D_ToolDamage
+  - \Traits\
+    - D_Armour
+    - D_Ballistic
+    - D_Consumable
+    - D_Decayable
+    - D_Deployable
+    - D_Durable
+    - D_Equippable
+    - D_Fillable
+    - D_Generator
+    - D_Inventory
+    - D_Itemable
+    - D_Processing
+  - \World\
+    - D_VoxelSetupData
+
+- Cryptic_JerryCan_P.pak
+  - \Traits\
+    - D_Fillable
+
+- Self_Made_Luck_P.pak
+  - \Items\
+    - D_ItemStatic
